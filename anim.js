@@ -6,8 +6,8 @@ var lyrics = document.querySelector("#lyrics");
 var lyricsData = [
   { text: "Wise men say", time: 7 },
   { text: "Only fools rush in", time: 14 },
-  { text: "But I can't help", time: 27 },
-  { text: "falling in love with you", time: 28 },
+  { text: "But I can't help", time: 23 },
+  { text: "falling in love with you", time: 27 },
   { text: "Shall I stay?", time: 36 },
   { text: "Would it be a sin", time: 43 },
   { text: "If I can't help", time: 51 },
