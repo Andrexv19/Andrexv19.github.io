@@ -4,10 +4,10 @@ var lyrics = document.querySelector("#lyrics");
 
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [
-  { text: "Wise men say", time: 4.5 },
-  { text: "Only fools rush in", time: 9 },
-  { text: "But I can't help", time: 13 },
-  { text: "falling in love with you", time: 17 },
+  { text: "Wise men say", time: 5 },
+  { text: "Only fools rush in", time: 12 },
+  { text: "But I can't help", time: 20 },
+  { text: "falling in love with you", time: 25 },
   { text: "Shall I stay?", time: 34 },
   { text: "Would it be a sin", time: 41 },
   { text: "If I can't help", time: 49 },
